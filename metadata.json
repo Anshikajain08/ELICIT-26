@@ -1,0 +1,6 @@
+{
+  "name": "ELICIT'26 - MUJ ACM Student Chapter",
+  "description": "Retro pixel-art space universe for ELICIT'26, hosted by Manipal University Jaipur ACM Student Chapter. Complete cosmic missions, explore hackathons and workshops, unlock gallery memories, and level up your explorer rank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
