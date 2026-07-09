@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "ELICIT-26-main",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../../elicit'26---muj-acm-student-chapter (3)/assets"
+		},
+		{
+			"name": "node_modules",
+			"path": "../../elicit'26---muj-acm-student-chapter (3)/node_modules"
+		}
+	],
+	"settings": {}
+}
